@@ -1,4 +1,4 @@
-Interactive Visualization with Matplotlib
+CFPB reported complaints to Stock Price correlation 
 ======================================
 
 1. Implement Jupyter Notebook following instruction here [Jupyter Notebook](http://jupyter.org/install.html)
@@ -14,6 +14,6 @@ $ jupyter notebook
 ```
 This will open a browser based folder structure where you can open the ipynb file and step through the code
 
-4. Below is the visual created. In Jupyter Notebook, this is interactive and shows how Bars change color as the threshold moves
+4. Below is the visual created. This shows correlation between Complaints Reported to CFPB against a particular North American institution and Stock Price. The idea is to explore if the correlation is strong or weak and if strong, is there a causation.
 
-![CFPB Complaints Correlation](https://github.com/KedarJo/CFPB-Complaints)
+![CFPB Complaints Correlation](https://github.com/KedarJo/CFPB-Complaints/blob/master/Complaints.png)
